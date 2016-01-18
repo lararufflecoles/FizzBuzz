@@ -42,4 +42,4 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-// Line 29 - Commented out code is unnecessary as the last 'else' automatically runs the code inside the {} using the remanding numbers
+// Line 29 - Commented out code is unnecessary as the last 'else' automatically runs the code inside the {} using the remaining numbers
