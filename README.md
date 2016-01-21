@@ -1,3 +1,3 @@
 # FizzBuzz
-A FizzBuzz solution
+My FizzBuzz solution
 
